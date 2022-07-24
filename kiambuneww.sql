@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `Kiambu`
+-- Database: `Kiambuneww`
 --
 
 -- --------------------------------------------------------
@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `complaints`
 --
-CREATE DATABASE kiambu;
+
 
 CREATE TABLE `complaints` (
   `c_id` int(11) NOT NULL,
